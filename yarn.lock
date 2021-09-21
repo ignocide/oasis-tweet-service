@@ -3078,7 +3078,7 @@ node-pre-gyp@^0.12.0:
     semver "^5.3.0"
     tar "^4"
 
-"node-server@file:../../node-server-github":
+"node-server@file:../node-server-github":
   version "1.0.0"
   dependencies:
     "@types/jest" "^24.0.13"
@@ -4163,8 +4163,8 @@ tildify@1.2.0:
     os-homedir "^1.0.0"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
